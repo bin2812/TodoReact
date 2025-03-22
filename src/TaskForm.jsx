@@ -51,7 +51,7 @@ const TaskForm = () => {
                   {taskItem.text}
                 </span>
               </div>
-              <button className="text-red-500 hover:text-red-700">×</button>
+              <button className="text-red-500 hover:text-red-700"> × </button>
             </li>
           ))}
         </ul>
